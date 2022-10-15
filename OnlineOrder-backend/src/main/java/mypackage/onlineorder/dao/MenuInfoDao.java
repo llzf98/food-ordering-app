@@ -1,7 +1,7 @@
-package com.mypackage.onlineorder.dao;
+package mypackage.onlineorder.dao;
 
-import com.mypackage.onlineorder.entity.MenuItem;
-import com.mypackage.onlineorder.entity.Restaurant;
+import mypackage.onlineorder.entity.MenuItem;
+import mypackage.onlineorder.entity.Restaurant;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;

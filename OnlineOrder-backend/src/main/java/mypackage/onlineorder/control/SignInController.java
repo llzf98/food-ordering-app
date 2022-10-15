@@ -1,4 +1,4 @@
-package com.mypackage.onlineorder.control;
+package mypackage.onlineorder.control;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.http.HttpStatus;

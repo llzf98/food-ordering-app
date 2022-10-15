@@ -1,7 +1,7 @@
-package com.mypackage.onlineorder;
+package mypackage.onlineorder;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.mypackage.onlineorder.entity.Customer;
+import mypackage.onlineorder.entity.Customer;
 import org.json.JSONObject;
 
 import java.io.*;

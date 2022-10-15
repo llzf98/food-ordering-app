@@ -1,7 +1,7 @@
-package com.mypackage.onlineorder.dao;
+package mypackage.onlineorder.dao;
 
-import com.mypackage.onlineorder.entity.Cart;
-import com.mypackage.onlineorder.entity.OrderItem;
+import mypackage.onlineorder.entity.Cart;
+import mypackage.onlineorder.entity.OrderItem;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;

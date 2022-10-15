@@ -1,4 +1,4 @@
-package com.mypackage.onlineorder.entity;
+package mypackage.onlineorder.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

@@ -1,8 +1,8 @@
-package com.mypackage.onlineorder.control;
+package mypackage.onlineorder.control;
 
-import com.mypackage.onlineorder.entity.MenuItem;
-import com.mypackage.onlineorder.entity.Restaurant;
-import com.mypackage.onlineorder.service.MenuInfoService;
+import mypackage.onlineorder.entity.MenuItem;
+import mypackage.onlineorder.entity.Restaurant;
+import mypackage.onlineorder.service.MenuInfoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

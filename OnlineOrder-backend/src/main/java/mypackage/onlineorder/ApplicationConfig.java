@@ -1,4 +1,4 @@
-package com.mypackage.onlineorder;
+package mypackage.onlineorder;
 
 import java.util.Properties;
 import javax.sql.DataSource;

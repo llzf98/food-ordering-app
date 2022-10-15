@@ -1,7 +1,7 @@
-package com.mypackage.onlineorder.control;
+package mypackage.onlineorder.control;
 
-import com.mypackage.onlineorder.entity.Customer;
-import com.mypackage.onlineorder.service.CustomerService;
+import mypackage.onlineorder.entity.Customer;
+import mypackage.onlineorder.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;

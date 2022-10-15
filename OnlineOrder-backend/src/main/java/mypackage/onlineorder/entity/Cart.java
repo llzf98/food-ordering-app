@@ -1,4 +1,4 @@
-package com.mypackage.onlineorder.entity;
+package mypackage.onlineorder.entity;
 
 import javax.persistence.*;
 import java.io.Serializable;

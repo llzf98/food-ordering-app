@@ -1,7 +1,7 @@
-package com.mypackage.onlineorder.control;
+package mypackage.onlineorder.control;
 
-import com.mypackage.onlineorder.entity.Cart;
-import com.mypackage.onlineorder.service.CartService;
+import mypackage.onlineorder.entity.Cart;
+import mypackage.onlineorder.service.CartService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

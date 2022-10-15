@@ -1,6 +1,6 @@
-package com.mypackage.onlineorder.control;
+package mypackage.onlineorder.control;
 
-import com.mypackage.onlineorder.service.OrderItemService;
+import mypackage.onlineorder.service.OrderItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;

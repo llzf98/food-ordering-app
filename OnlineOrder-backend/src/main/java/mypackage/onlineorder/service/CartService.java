@@ -1,9 +1,9 @@
-package com.mypackage.onlineorder.service;
+package mypackage.onlineorder.service;
 
-import com.mypackage.onlineorder.dao.CartDao;
-import com.mypackage.onlineorder.entity.Cart;
-import com.mypackage.onlineorder.entity.Customer;
-import com.mypackage.onlineorder.entity.OrderItem;
+import mypackage.onlineorder.dao.CartDao;
+import mypackage.onlineorder.entity.Cart;
+import mypackage.onlineorder.entity.Customer;
+import mypackage.onlineorder.entity.OrderItem;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

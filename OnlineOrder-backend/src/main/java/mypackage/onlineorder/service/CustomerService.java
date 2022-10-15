@@ -1,8 +1,8 @@
-package com.mypackage.onlineorder.service;
+package mypackage.onlineorder.service;
 
-import com.mypackage.onlineorder.dao.CustomerDao;
-import com.mypackage.onlineorder.entity.Cart;
-import com.mypackage.onlineorder.entity.Customer;
+import mypackage.onlineorder.dao.CustomerDao;
+import mypackage.onlineorder.entity.Cart;
+import mypackage.onlineorder.entity.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

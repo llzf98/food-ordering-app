@@ -1,8 +1,8 @@
-package com.mypackage.onlineorder.service;
+package mypackage.onlineorder.service;
 
-import com.mypackage.onlineorder.dao.MenuInfoDao;
-import com.mypackage.onlineorder.entity.MenuItem;
-import com.mypackage.onlineorder.entity.Restaurant;
+import mypackage.onlineorder.dao.MenuInfoDao;
+import mypackage.onlineorder.entity.MenuItem;
+import mypackage.onlineorder.entity.Restaurant;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
